@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdalaziz Galal
 - 👀 I’m a Computer Science & Economics major @ UofT
-- 📫 Check out my site abdalaziz.ca
+- 📫 Check out my site https://abdalaziz.ca
 - 📫 How to reach me a.galal@mail.utoronto.ca
